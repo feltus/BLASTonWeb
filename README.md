@@ -23,4 +23,4 @@ After pasting the sequence in to the blastp algorithm at NCBI (https://blast.ncb
 *	Use the BLOSUM45 scoring matrix.
 
 #### Step 2 
-Save the results as a ‘hit table’ in a plain text file. To do this, select all the sequences and click Download.  You can save as or comma delimited data.  This format is very useful for loading into Excel spreadsheets or data frames in Python/R/etc.
+Save the results as a ‘hit table’ in a plain text file. To do this, select all the sequences and click Download.  You can save as or comma delimited data.  This format is very useful for loading into Excel spreadsheets or data frames in Python/R/etc. There is nothing to turn into Canvas for this activity.
