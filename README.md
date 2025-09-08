@@ -18,7 +18,6 @@ Locate the STAT5A locus in the browser and then go to the gene information page 
 
 #### Step 1 
 After pasting the sequence in to the blastp algorithm at NCBI (https://blast.ncbi.nlm.nih.gov/), modify the BLASTP search as follows:
-*	Exclude primates using Entrez limits (Primates (taxid:9443)) or the  “organism” field on the BLAST page.
 *	Change the default E-value from 10 to 0.001. 
 *	Use the BLOSUM45 scoring matrix.
 
